@@ -1,1 +1,0 @@
-Since there are no files in the root directory yet, Git shows that there's nothing to commit. Our safe deposit box (repository) is empty. To do anything further, we need to populate the root folder with at least one file. We've added my-new-file.txt to the root directory. Now we can move on to the next step.
